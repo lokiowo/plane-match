@@ -1,2 +1,6 @@
 # plane-match
 practice the c language
+#include <stdio.h>
+int main(){
+printf("Hello,World!");
+}
