@@ -1,6 +1,4 @@
-# plane-match
-practice the c language
-#include <stdio.h>
-int main(){
-printf("Hello,World!");
-}
+# 飞机大战
+这是我的第一个c语言项目 目的是对项目开发进行熟悉
+目前还有很多未能完善的地方 我将继续对此项目进行完善并在GitHub上进行更新
+同时欢迎各路大神莅临给予指导（嗯
